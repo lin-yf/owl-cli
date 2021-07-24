@@ -5,5 +5,5 @@
 ## 使用方式
 
 ```bash
-owl init 项目名称
+npx https://github.com/lin-yf/owl-cli init 项目名称
 ```
