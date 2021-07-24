@@ -17,4 +17,9 @@ exports.default = [
         git: 'https://github.com/lin-yf/react-template',
         branch: 'main',
     },
+    {
+        name: 'go+gin',
+        git: 'https://github.com/lin-yf/gin-template.git',
+        branch: 'main'
+    }
 ];
