@@ -7,6 +7,11 @@ export default [
         branch: 'main',
     },
     {
+        name: 'vue3',
+        git: 'https://github.com/lin-yf/vue3-template.git',
+        branch: 'main'
+    },
+    {
         name: 'react',
         git: 'https://github.com/lin-yf/react-template',
         branch: 'main',
